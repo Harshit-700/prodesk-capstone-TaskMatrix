@@ -2,7 +2,7 @@
 
 ## Enterprise Agile Project Management Platform
 
-### Project Overview
+### Project OvervieW
 
 TaskMatrix is a modern Agile Project Management platform inspired by industry-leading solutions such as Jira and Asana. The platform is designed to help software development teams efficiently manage projects, organize sprints, assign tasks, monitor deadlines, and collaborate in real time.
 
@@ -14,6 +14,7 @@ The primary objective of TaskMatrix is to provide a centralized workspace where 
 
 **Fullstack Development**
 
+[Screenshot](https://github.com/Harshit-700/prodesk-capstone-TaskMatrix/blob/8cad65df3219a614c2d149e64f2d4875cf549a71/erd.png).
 ---
 
 # Problem Statement

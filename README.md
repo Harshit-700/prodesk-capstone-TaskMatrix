@@ -203,7 +203,7 @@ Stores project history and user activity records.
 
 The ERD illustrates the relationships between Users, Projects, Tasks, Sprints, and Activity Logs.
 
-![ERD Diagram](./assets/erd-diagram.png)
+![ERD Diagram](https://github.com/Harshit-700/prodesk-capstone-TaskMatrix/blob/2c3d33e9342ec3c1406c87a4156ee5a00857d3e4/Screenshot%20(445).png)
 
 ---
 
@@ -248,7 +248,7 @@ The application uses Zustand for centralized state management.
 * Filters
 * Notifications
 
-![State Tree Diagram](./assets/state-tree.png)
+![State Tree Diagram]![Screenshot](https://github.com/Harshit-700/prodesk-capstone-TaskMatrix/blob/75c2141d55e9d6104b6e93d023a655bd231f78f2/Screenshot%20(446).png)
 
 ---
 
@@ -343,7 +343,7 @@ The application UI has been designed and prototyped before implementation.
 
 ### Figma Design File
 
-[Figma Public Link Here]
+[https://www.figma.com/design/FxZOiski44thaAPVrnQlvY/Untitled?node-id=0-1&p=f&t=pZQChwt74evSxZ4G-0001]
 
 ---
 
@@ -386,5 +386,4 @@ Deployment, Testing & Final Presentation
 # Author
 
 Harshit
-
-Capstone Project – Prodesk Fullstack Engineering Program
+Capstone Project

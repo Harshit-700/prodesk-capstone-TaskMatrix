@@ -343,7 +343,7 @@ The application UI has been designed and prototyped before implementation.
 
 ### Figma Design File
 
-[https://www.figma.com/design/FxZOiski44thaAPVrnQlvY/Untitled?node-id=0-1&p=f&t=pZQChwt74evSxZ4G-0001]
+[https://www.figma.com/designfigma/FxZOiski44thaADGHYRPVrnQlvY/Untitled?node-id=10-1&p=f&t=pZQChwt74evSxZ4G-0001]
 
 ---
 

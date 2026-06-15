@@ -13,8 +13,7 @@ The primary objective of TaskMatrix is to provide a centralized workspace where 
 # Track
 
 **Fullstack Development**
-
-[Screenshot](https://github.com/Harshit-700/prodesk-capstone-TaskMatrix/blob/8cad65df3219a614c2d149e64f2d4875cf549a71/erd.png).
+![img alt](https://github.com/Harshit-700/prodesk-capstone-TaskMatrix/blob/8cad65df3219a614c2d149e64f2d4875cf549a71/erd.png)
 ---
 
 # Problem Statement
